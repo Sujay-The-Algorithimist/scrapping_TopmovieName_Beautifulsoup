@@ -1,6 +1,6 @@
 # 🎬 IMDb Top 25 Movie Scraper
 
-A simple Python script that scrapes IMDb's Top 25 movie titles using requests and BeautifulSoup.
+A simple Python script that scrapes IMDb's Top 25 movie titles using requests and BeautifulSoup .
 
 ## 🚀 Features
 - Extracts all 25 movie names
